@@ -1,7 +1,7 @@
 # ism2411 - Python for business
 **Name:** London Williams
 **Semester:** Fall 2026
-**Instructor:** [Course Instructor]
+**Instructor:** Markum Reed
 ## About This Repo
 This repository contains my weekly lab submissions for ISM2411.
 Each folder corresponds to one module.
